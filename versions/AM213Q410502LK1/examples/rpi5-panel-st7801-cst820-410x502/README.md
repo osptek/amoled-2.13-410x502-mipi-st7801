@@ -57,22 +57,22 @@ sudo cp hynitron_cst820.ko /lib/modules/$(uname -r)/kernel/drivers/input/touchsc
 sudo depmod -a
 ```
 
-# 5. 设备树 Overlay（st7801-cst820-overlay.dts）
+# 5. 设备树 Overlay（vc4-kms-dsi-st7801-cst820-410x502-overlay.dts）
 
 ```
-sudo nano st7801-cst820-overlay.dts
+sudo nano vc4-kms-dsi-st7801-cst820-410x502-overlay.dts
 ```
 
 > 编译并安装：
 
 ```
-dtc -I dts -O dtb -o st7801-cst820-overlay.dtbo st7801-cst820-overlay.dts
+dtc -I dts -O dtb -o vc4-kms-dsi-st7801-cst820-410x502-overlay.dtbo vc4-kms-dsi-st7801-cst820-410x502-overlay.dts
 
-sudo cp st7801-cst820-overlay.dtbo /boot/firmware/overlays/
+sudo cp vc4-kms-dsi-st7801-cst820-410x502-overlay.dtbo /boot/firmware/overlays/
 ```
 
 
-# 5. 启用
+# 6. 启用
 
 > 编辑 /boot/firmware/config.txt，添加：
 
@@ -88,7 +88,7 @@ display_auto_detect=0
 
 dtoverlay=vc4-kms-v3d
 
-dtoverlay=st7801-cst820-overlay
+dtoverlay=vc4-kms-dsi-st7801-cst820-410x502-overlay
 
 # 忽略官方 LCD
 ignore_lcd=1

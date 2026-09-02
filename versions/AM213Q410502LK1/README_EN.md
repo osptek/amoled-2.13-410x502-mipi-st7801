@@ -60,6 +60,7 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 | Raspberry Pi 5 · ST7801 410×502 panel / DT overlay (display only) | [`examples/rpi5-panel-st7801-410x502/`](./examples/rpi5-panel-st7801-410x502/) |
 | Raspberry Pi 5 · CST820 touch / DT overlay (touch only) | [`examples/rpi5-touch-cst820/`](./examples/rpi5-touch-cst820/) |
 | Raspberry Pi 5 · ST7801 display + CST820 touch / DT overlay | [`examples/rpi5-panel-st7801-cst820-410x502/`](./examples/rpi5-panel-st7801-cst820-410x502/) |
+| Raspberry Pi 5 · ST7801 410×502 LVGL demo | [`examples/rpi5-lvgl-st7801-cst820-410x502/`](./examples/rpi5-lvgl-st7801-cst820-410x502/) |
 
 ## Repository layout
 
@@ -97,6 +98,7 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 - [Raspberry Pi 5 ST7801 panel (display only)](./examples/rpi5-panel-st7801-410x502/)
 - [Raspberry Pi 5 CST820 touch (touch only)](./examples/rpi5-touch-cst820/)
 - [Raspberry Pi 5 ST7801 display + CST820 touch](./examples/rpi5-panel-st7801-cst820-410x502/)
+- [Raspberry Pi 5 ST7801 LVGL demo](./examples/rpi5-lvgl-st7801-cst820-410x502/)
 
 ## Buy
 

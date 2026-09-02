@@ -60,6 +60,7 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 | Raspberry Pi 5 · ST7801 410×502 面板驱动 / DT overlay（仅显示） | [`examples/rpi5-panel-st7801-410x502/`](./examples/rpi5-panel-st7801-410x502/) |
 | Raspberry Pi 5 · CST820 触摸驱动 / DT overlay（仅触摸） | [`examples/rpi5-touch-cst820/`](./examples/rpi5-touch-cst820/) |
 | Raspberry Pi 5 · ST7801 显示 + CST820 触摸 / DT overlay | [`examples/rpi5-panel-st7801-cst820-410x502/`](./examples/rpi5-panel-st7801-cst820-410x502/) |
+| Raspberry Pi 5 · ST7801 410×502 LVGL 演示 | [`examples/rpi5-lvgl-st7801-cst820-410x502/`](./examples/rpi5-lvgl-st7801-cst820-410x502/) |
 
 ## 仓库结构
 
@@ -97,6 +98,7 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 - [Raspberry Pi 5 ST7801 面板（仅显示）](./examples/rpi5-panel-st7801-410x502/)
 - [Raspberry Pi 5 CST820 触摸（仅触摸）](./examples/rpi5-touch-cst820/)
 - [Raspberry Pi 5 ST7801 显示 + CST820 触摸](./examples/rpi5-panel-st7801-cst820-410x502/)
+- [Raspberry Pi 5 ST7801 LVGL 演示](./examples/rpi5-lvgl-st7801-cst820-410x502/)
 
 ## 购买链接
 
