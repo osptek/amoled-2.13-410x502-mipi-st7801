@@ -52,11 +52,12 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/`](./examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/) |
-| ESP32-P4 · LVGL + TE | [`examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/`](./examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/) |
-| ESP32-P4 · EAF player | [`examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
-| ESP32-P4 · ST7801 MIPI display test | [`examples/display-touch-test/st7801_mipi_dsi/`](./examples/display-touch-test/st7801_mipi_dsi/) |
-| ESP32-P4 · CST820 touch I2C test | [`examples/display-touch-test/P4-IDF_CST820-I2C/`](./examples/display-touch-test/P4-IDF_CST820-I2C/) |
+| ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 · ST7801 MIPI + PPA landscape / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 · LVGL + TE | [`examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/) |
+| ESP32-P4 · EAF player | [`examples/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
+| ESP32-P4 · ST7801 MIPI display test | [`examples/esp32p4-idf5_st7801_mipi-dsi/`](./examples/esp32p4-idf5_st7801_mipi-dsi/) |
+| ESP32-P4 · CST820 touch I2C test | [`examples/esp32p4-idf5_cst820-i2c/`](./examples/esp32p4-idf5_cst820-i2c/) |
 | Raspberry Pi 5 · ST7801 410×502 panel / DT overlay (display only) | [`examples/rpi5-panel-st7801-410x502/`](./examples/rpi5-panel-st7801-410x502/) |
 | Raspberry Pi 5 · CST820 touch / DT overlay (touch only) | [`examples/rpi5-touch-cst820/`](./examples/rpi5-touch-cst820/) |
 | Raspberry Pi 5 · ST7801 display + CST820 touch / DT overlay | [`examples/rpi5-panel-st7801-cst820-410x502/`](./examples/rpi5-panel-st7801-cst820-410x502/) |
@@ -90,11 +91,12 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 
 ### Samples
 
-- [ESP32-P4 ST7801 MIPI + LVGL9](./examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/)
-- [ESP32-P4 LVGL + TE](./examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/)
-- [ESP32-P4 EAF](./examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/)
-- [ESP32-P4 display test](./examples/display-touch-test/st7801_mipi_dsi/)
-- [ESP32-P4 CST820 touch test](./examples/display-touch-test/P4-IDF_CST820-I2C/)
+- [ESP32-P4 ST7801 MIPI + LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 ST7801 MIPI + PPA landscape / LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 LVGL + TE](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/)
+- [ESP32-P4 EAF](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/)
+- [ESP32-P4 display test](./examples/esp32p4-idf5_st7801_mipi-dsi/)
+- [ESP32-P4 CST820 touch test](./examples/esp32p4-idf5_cst820-i2c/)
 - [Raspberry Pi 5 ST7801 panel (display only)](./examples/rpi5-panel-st7801-410x502/)
 - [Raspberry Pi 5 CST820 touch (touch only)](./examples/rpi5-touch-cst820/)
 - [Raspberry Pi 5 ST7801 display + CST820 touch](./examples/rpi5-panel-st7801-cst820-410x502/)

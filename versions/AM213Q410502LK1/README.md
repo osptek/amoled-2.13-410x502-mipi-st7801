@@ -52,11 +52,12 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/`](./examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/) |
-| ESP32-P4 · LVGL + TE 防撕裂 | [`examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/`](./examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/) |
-| ESP32-P4 · EAF 播放 | [`examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
-| ESP32-P4 · ST7801 MIPI 显示测试 | [`examples/display-touch-test/st7801_mipi_dsi/`](./examples/display-touch-test/st7801_mipi_dsi/) |
-| ESP32-P4 · CST820 触摸 I2C 测试 | [`examples/display-touch-test/P4-IDF_CST820-I2C/`](./examples/display-touch-test/P4-IDF_CST820-I2C/) |
+| ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 · ST7801 MIPI + PPA 横屏 / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 · LVGL + TE 防撕裂 | [`examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/) |
+| ESP32-P4 · EAF 播放 | [`examples/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
+| ESP32-P4 · ST7801 MIPI 显示测试 | [`examples/esp32p4-idf5_st7801_mipi-dsi/`](./examples/esp32p4-idf5_st7801_mipi-dsi/) |
+| ESP32-P4 · CST820 触摸 I2C 测试 | [`examples/esp32p4-idf5_cst820-i2c/`](./examples/esp32p4-idf5_cst820-i2c/) |
 | Raspberry Pi 5 · ST7801 410×502 面板驱动 / DT overlay（仅显示） | [`examples/rpi5-panel-st7801-410x502/`](./examples/rpi5-panel-st7801-410x502/) |
 | Raspberry Pi 5 · CST820 触摸驱动 / DT overlay（仅触摸） | [`examples/rpi5-touch-cst820/`](./examples/rpi5-touch-cst820/) |
 | Raspberry Pi 5 · ST7801 显示 + CST820 触摸 / DT overlay | [`examples/rpi5-panel-st7801-cst820-410x502/`](./examples/rpi5-panel-st7801-cst820-410x502/) |
@@ -90,11 +91,12 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 
 ### 示例工程
 
-- [ESP32-P4 ST7801 MIPI + LVGL9](./examples/P4-IDF_ST7801-MIPI_ESP-LVGL-PORT_V9/)
-- [ESP32-P4 LVGL + TE](./examples/with-te/p4-idf_st7801-mipi_lvgl_common_demo/)
-- [ESP32-P4 EAF](./examples/eaf/p4-idf_st7801-mipi_esp-lv-eaf-player/)
-- [ESP32-P4 显示测试](./examples/display-touch-test/st7801_mipi_dsi/)
-- [ESP32-P4 CST820 触摸测试](./examples/display-touch-test/P4-IDF_CST820-I2C/)
+- [ESP32-P4 ST7801 MIPI + LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 ST7801 MIPI + PPA 横屏 / LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 LVGL + TE](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/)
+- [ESP32-P4 EAF](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/)
+- [ESP32-P4 显示测试](./examples/esp32p4-idf5_st7801_mipi-dsi/)
+- [ESP32-P4 CST820 触摸测试](./examples/esp32p4-idf5_cst820-i2c/)
 - [Raspberry Pi 5 ST7801 面板（仅显示）](./examples/rpi5-panel-st7801-410x502/)
 - [Raspberry Pi 5 CST820 触摸（仅触摸）](./examples/rpi5-touch-cst820/)
 - [Raspberry Pi 5 ST7801 显示 + CST820 触摸](./examples/rpi5-panel-st7801-cst820-410x502/)
