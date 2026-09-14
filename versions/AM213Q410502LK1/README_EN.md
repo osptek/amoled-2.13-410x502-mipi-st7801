@@ -31,7 +31,7 @@
 
 OSPTEK **2.13″ 410×502 AMOLED** is a **MIPI** color display module driven by **ST7801N**, with capacitive touch (**CST820**). Suited to handheld devices, wearables, and compact portrait HMI.
 
-Spec ID (repository name): `2.13-amoled-410x502-mipi-st7801`
+Spec ID (repository name): `amoled-2.13-410x502-mipi-st7801`
 
 Current module version: **AM213Q410502LK1**. Electrical and mechanical details follow [`docs/AM213Q410502LK1.pdf`](./docs/AM213Q410502LK1.pdf).
 
@@ -66,7 +66,7 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 ## Repository layout
 
 ```text
-2.13-amoled-410x502-mipi-st7801/                                # repo root (nav: ../../README_EN.md)
+amoled-2.13-410x502-mipi-st7801/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── AM213Q410502LK1/                                # full materials for this part number
         ├── README.md

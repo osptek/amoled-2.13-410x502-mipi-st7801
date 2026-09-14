@@ -31,7 +31,7 @@
 
 OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组，显示驱动为 **ST7801N**，触摸驱动为 **CST820**。适合手持终端、穿戴与小型竖屏 HMI 等场景。
 
-规格标识（仓库名）：`2.13-amoled-410x502-mipi-st7801`
+规格标识（仓库名）：`amoled-2.13-410x502-mipi-st7801`
 
 当前模组版本：**AM213Q410502LK1**。电气与外形细节以 [`docs/AM213Q410502LK1.pdf`](./docs/AM213Q410502LK1.pdf) 为准。
 
@@ -66,7 +66,7 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 ## 仓库结构
 
 ```text
-2.13-amoled-410x502-mipi-st7801/                                # 仓库根（导航见 ../../README.md）
+amoled-2.13-410x502-mipi-st7801/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── AM213Q410502LK1/                                # 本料号完整资料
         ├── README.md
