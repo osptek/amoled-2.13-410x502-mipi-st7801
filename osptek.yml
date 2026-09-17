@@ -1,0 +1,14 @@
+id: amoled-2.13-410x502-mipi-st7801
+category: displays
+
+size: "2.13"
+panel: amoled
+resolution: 410x502
+interface: [mipi]
+shape: rect
+
+versions:
+  - id: AM213Q410502LK1
+    driver: ST7801N
+    touch: CST820
+    note: none
