@@ -53,8 +53,11 @@ Current module version: **AM213Q410502LK1**. Electrical and mechanical details f
 | Description | Path |
 | ---- | ---- |
 | ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/) |
 | ESP32-P4 · ST7801 MIPI + PPA landscape / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + PPA landscape / LVGL 9 | [`examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
 | ESP32-P4 · LVGL + TE | [`examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · LVGL + TE | [`examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/) |
 | ESP32-P4 · EAF player | [`examples/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
 | ESP32-P4 · ST7801 MIPI display test | [`examples/esp32p4-idf5_st7801_mipi-dsi/`](./examples/esp32p4-idf5_st7801_mipi-dsi/) |
 | ESP32-P4 · CST820 touch I2C test | [`examples/esp32p4-idf5_cst820-i2c/`](./examples/esp32p4-idf5_cst820-i2c/) |
@@ -92,8 +95,11 @@ amoled-2.13-410x502-mipi-st7801/                                # repo root (nav
 ### Samples
 
 - [ESP32-P4 ST7801 MIPI + LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + LVGL 9](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/)
 - [ESP32-P4 ST7801 MIPI + PPA landscape / LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + PPA landscape / LVGL 9](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
 - [ESP32-P4 LVGL + TE](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · LVGL + TE](./examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/)
 - [ESP32-P4 EAF](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/)
 - [ESP32-P4 display test](./examples/esp32p4-idf5_st7801_mipi-dsi/)
 - [ESP32-P4 CST820 touch test](./examples/esp32p4-idf5_cst820-i2c/)

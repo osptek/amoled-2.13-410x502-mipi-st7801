@@ -53,8 +53,11 @@ OSPTEK **2.13 寸 410×502 AMOLED** 是一款 **MIPI** 接口彩色显示模组�
 | 说明 | 路径 |
 | ---- | ---- |
 | ESP32-P4 · ST7801 MIPI + esp-lvgl-port / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + LVGL 9 | [`examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/`](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/) |
 | ESP32-P4 · ST7801 MIPI + PPA 横屏 / LVGL9 | [`examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + PPA 横屏 / LVGL 9 | [`examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/`](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/) |
 | ESP32-P4 · LVGL + TE 防撕裂 | [`examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/) |
+| ESP32-P4 v3.2 · ESP-IDF 6.1 · LVGL + TE 防撕裂 | [`examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/`](./examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/) |
 | ESP32-P4 · EAF 播放 | [`examples/p4-idf_st7801-mipi_esp-lv-eaf-player/`](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/) |
 | ESP32-P4 · ST7801 MIPI 显示测试 | [`examples/esp32p4-idf5_st7801_mipi-dsi/`](./examples/esp32p4-idf5_st7801_mipi-dsi/) |
 | ESP32-P4 · CST820 触摸 I2C 测试 | [`examples/esp32p4-idf5_cst820-i2c/`](./examples/esp32p4-idf5_cst820-i2c/) |
@@ -92,8 +95,11 @@ amoled-2.13-410x502-mipi-st7801/                                # 仓库根（�
 ### 示例工程
 
 - [ESP32-P4 ST7801 MIPI + LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + LVGL 9](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9/)
 - [ESP32-P4 ST7801 MIPI + PPA 横屏 / LVGL9](./examples/esp32p4-idf5_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · ST7801 MIPI + PPA 横屏 / LVGL 9](./examples/esp32p4-idf6_st7801-mipi_esp-lvgl-port_lvgl9_ppa/)
 - [ESP32-P4 LVGL + TE](./examples/esp32p4-idf5_st7801-mipi_lvgl_common_demo/)
+- [ESP32-P4 v3.2 · ESP-IDF 6.1 · LVGL + TE](./examples/esp32p4-idf6_st7801-mipi_lvgl_common_demo/)
 - [ESP32-P4 EAF](./examples/p4-idf_st7801-mipi_esp-lv-eaf-player/)
 - [ESP32-P4 显示测试](./examples/esp32p4-idf5_st7801_mipi-dsi/)
 - [ESP32-P4 CST820 触摸测试](./examples/esp32p4-idf5_cst820-i2c/)
