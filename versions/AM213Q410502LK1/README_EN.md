@@ -91,6 +91,7 @@ amoled-2.13-410x502-mipi-st7801/                                # repo root (nav
 | Touch IC datasheet (CST820) | [`docs/CST820_Datasheet_V1.2.pdf`](./docs/CST820_Datasheet_V1.2.pdf) |
 | Init sequence (text) | [`docs/GVO2.06_410x502_ST7801N_Mipi_简码.txt`](./docs/GVO2.06_410x502_ST7801N_Mipi_%E7%AE%80%E7%A0%81.txt) |
 | 2.13″ AMOLED adapter schematic | [`docs/2.13寸AMOLED转接板.png`](./docs/2.13%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.png) |
+| 2.13″ AMOLED adapter 3D model (STEP) | [`docs/2.13寸AMOLED转接板.step`](./docs/2.13%E5%AF%B8AMOLED%E8%BD%AC%E6%8E%A5%E6%9D%BF.step) |
 
 ### Samples
 
